@@ -13,7 +13,7 @@
 QA Engineer focused on **requirements validation**, **business rules**, and **data consistency**. Experience in **test planning and execution** (functional, non-functional, exploratory, API, E2E), **test scenario/case writing**, **defect management with evidence**, and **end-to-end validation** across web applications and APIs.  
 Background in **Business Administration** and currently pursuing a **B.Sc. in Software Engineering**, combining strong foundations in processes, operational control, and analytical thinking with **risk- and impact-based prioritization** to reduce release failures. Preparing for **ISTQB CTFL** certification.
 
-- 🔭 **Experience:** QA Analyst @ **Nuclear Gaming** (Remote/Freelance, **Jan 2025 – Dec 2025**) — Unity WebGL/HTML5 testing, release stability, defect triage with evidence, performance/stability checks, CI/Docker support.
+- 🔭 **Experience:** QA Analyst @ **Nuclear Gaming** (Remote/Freelance, **Jan 2025 – Present**) — Unity WebGL/HTML5 testing, release stability, defect triage with evidence, performance/stability checks, CI/Docker support.
 - 🧩 **Current:** Business Development & OpenBIM QA/QC @ **PER5 Engenharia** (Remote/Freelance, **Oct 2024 – Present**) — scope/criteria documentation, OpenBIM (IFC) QA/QC, standardization and rework reduction (ISO 19650-aligned).
 - ⚙️ **Testing Stack:** Cypress, Robot Framework, Postman (REST), Swagger/OpenAPI.
 - 🗄️ **Data Validation:** SQL checks for integrity/consistency and impact verification.
